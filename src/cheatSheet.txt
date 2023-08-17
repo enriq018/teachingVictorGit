@@ -1,0 +1,36 @@
+Git Commands 
+
+git add FILE_NAME_GOES_HERE
+  - add the file to the staged commits
+git commit -m 'COMMIT MESSAGE GOES HERE'
+
+git push REMOTE_NAME BRANCH_NAME
+
+git pull REMOTE_NAME BRANCH_NAME
+
+
+git status 
+  -shows file changes 
+
+git diff FILE_NAME
+  -shows changes between file versions 
+
+=======
+
+git init 
+  -initualizes git repo locally 
+git add READ_ME.txt 
+  - creates a read me file, u just need any files to be able to push later 
+git add FILE_NAME OR FOLDER 
+git commit -m 'COMMIT MESSAGE'
+git remote add 'REMOTE_URL_HERE' 
+git branch -M BRANCH_NAME 
+git push origin BRANCH_NAME 
+
+git status
+git add .
+git commit -m 'msg'
+git push origin branchName
+
+############
+git checkout -b 'branch_Name'
