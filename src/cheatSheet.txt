@@ -27,3 +27,7 @@ git remote add 'REMOTE_URL_HERE'
 git branch -M BRANCH_NAME 
 git push origin BRANCH_NAME 
 
+git status
+git add .
+git commit -m 'msg'
+git push origin branchName
