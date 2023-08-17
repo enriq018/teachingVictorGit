@@ -1,1 +1,7 @@
-base
+Git Commands 
+
+git add FILE_NAME_GOES_HERE
+  - add the file to the staged commits
+git commit -m 'COMMIT MESSAGE GOES HERE'
+
+git push REMOTE_NAME BRANCH_NAME
