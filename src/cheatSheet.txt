@@ -31,3 +31,6 @@ git status
 git add .
 git commit -m 'msg'
 git push origin branchName
+
+############
+git checkout -b 'branch_Name'
